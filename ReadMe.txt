@@ -1,0 +1,1 @@
+The x and y values are generated from the k value in accordance with the limit range that was established in the first place. A random number between 2 and n times 12 will be chosen. Next, we followed the technique for finding the near miss by solving the equation and determining the value of the near miss, and then we obtained the nearest miss's value.
